@@ -1,1 +1,1 @@
-FROM Ubuntu:kinetic
+FROM ubuntu:kinetic
